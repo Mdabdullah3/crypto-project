@@ -1,6 +1,5 @@
 {
   "buildCommand": "cd crypto_project && npm run build",
   "outputDirectory": "crypto_project/.next",
-  "installCommand": "cd crypto_project && npm install",
-  "rootDirectory": "crypto_project"
+  "installCommand": "cd crypto_project && npm install"
 }
