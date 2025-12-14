@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd crypto-next && npm run build",
+  "outputDirectory": "crypto-next/.next",
+  "installCommand": "cd crypto-next && npm install",
+  "rootDirectory": "crypto-next"
+}
